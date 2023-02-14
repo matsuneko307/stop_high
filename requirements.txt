@@ -3,5 +3,4 @@ numpy
 streamlit
 pandas_datareader
 matplotlib
-pickle
 lightgbm
