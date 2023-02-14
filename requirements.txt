@@ -2,6 +2,6 @@ pandas
 numpy
 streamlit
 pandas_datareader
-matplotlib.pyplot
+matplotlib
 pickle
 lightgbm
